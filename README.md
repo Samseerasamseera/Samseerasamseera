@@ -30,7 +30,7 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 
 ## 📊 GitHub Stats
 
-![Prathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samseerasamseera&show_icons=true&theme=radical)
+![Samseera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samseerasamseera&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samseerasamseera&layout=compact&theme=radical)
 
 ## 🚀 Professional Experience
