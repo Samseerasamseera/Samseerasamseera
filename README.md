@@ -9,7 +9,7 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 
 - 📍 Mangalore, Karnataka, India
 - 📧 [samseerasam99gmail.com](mailto:samseerasam99@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/samseera-8b0806220/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/samseera-sam-82aa45433/)
 
 ## 🔧 Key Skills
 
